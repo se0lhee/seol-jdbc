@@ -6,9 +6,9 @@ import java.util.List;
 
 import javax.sql.DataSource;
 
+import org.mariadb.jdbc.MariaDbDataSource;
 import org.seolhee.jdbc.raw.Article;
 import org.seolhee.jdbc.raw.ArticleDao;
-import org.mariadb.jdbc.MariaDbDataSource;
 
 /**
  * ArticleDao 인터페이스의 구현 클래스. JdbcTemplate을 사용한다.
