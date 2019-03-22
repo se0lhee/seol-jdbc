@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 
-import javax.sql.DataSource;
+import javax.sql.DataSource; 
 
 import org.mariadb.jdbc.MariaDbDataSource;
 import org.seolhee.jdbc.raw.Article;
